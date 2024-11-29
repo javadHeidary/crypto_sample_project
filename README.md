@@ -1,7 +1,7 @@
 # crypto
 
 A new Flutter project.
-
+| ![صفحه اصلی](https://github.com/javadHeidary/crypto_sample_project/blob/main/images/all-crypto.png) |  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
